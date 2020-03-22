@@ -1,0 +1,1 @@
+kvantum-adapta-manjaro-kde
