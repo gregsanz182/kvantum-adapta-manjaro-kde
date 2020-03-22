@@ -1,1 +1,1 @@
-kvantum-adapta-manjaro-kde
+Kvantum Adapta Manjaro KDE
